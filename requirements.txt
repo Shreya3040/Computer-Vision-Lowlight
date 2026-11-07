@@ -1,0 +1,11 @@
+numpy
+scipy
+opencv-python-headless
+scikit-image
+pandas
+tabulate
+torch
+gradio
+# optional, for LPIPS / NIQE:
+# lpips
+# pyiqa

@@ -1,0 +1,24 @@
+{
+ "time": "2026-11-07 05:44:58",
+ "args": {
+  "low_dir": "/home/claude/data/unseen/ExDark100",
+  "high_dir": null,
+  "out": "results/baseline_v0/unseen_ExDark_a",
+  "ablation": false,
+  "max_side": 720,
+  "limit": 55,
+  "offset": 0,
+  "split_json": null,
+  "split": "test"
+ },
+ "n_images": 55,
+ "device": "cpu",
+ "torch": "2.15.0+cu132",
+ "python": "3.12.3",
+ "weights_sha": {
+  "rgb": "9b03537bad73",
+  "hybrid": "7041c932f8b8"
+ },
+ "lpips": "unavailable (AlexNet backbone host blocked)",
+ "niqe": "pyiqa (lower=better)"
+}

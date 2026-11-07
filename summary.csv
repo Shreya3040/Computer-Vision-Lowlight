@@ -1,0 +1,5 @@
+method,latency_ms,latency_ms_std,mean_lum,mean_lum_std,overexposed_%,overexposed_%_std,new_overexposed_%,new_overexposed_%_std,colour_cast,colour_cast_std,rel_noise,rel_noise_std,noise_gain,noise_gain_std,edge_corr,edge_corr_std,entropy,entropy_std,NIQE,NIQE_std
+classical,78.377,23.447,0.358,0.059,1.355,1.733,0.559,0.752,13.619,12.214,0.047,0.025,1.607,0.536,0.654,0.2,7.37,0.699,3.399,1.369
+dl_only,1081.999,325.112,0.502,0.18,10.851,13.758,9.297,12.058,14.894,12.143,0.025,0.018,0.763,0.25,0.558,0.105,6.667,1.062,3.945,1.886
+hybrid,1374.047,427.938,0.38,0.066,0.0,0.0,0.0,0.0,13.481,13.056,0.034,0.018,1.142,0.333,0.683,0.192,7.322,0.731,3.462,1.511
+input,0.0,0.0,0.141,0.095,1.554,3.976,0.0,0.0,7.722,9.587,0.033,0.021,1.0,0.0,1.0,0.0,5.629,1.187,4.532,1.858
